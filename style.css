@@ -6,6 +6,7 @@ body {
 .Título {
  text-align:center;
  color: #E2AA44;
+ -moz-text-decoration-style: impact;
 }
 
 p {
