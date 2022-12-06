@@ -23,3 +23,26 @@ p {
     text-align: center;
     margin-left: 30px;
 }
+
+.Título2 {
+    color: #E2AA44;
+    font-size: 30px;
+}
+
+#parágrafo {
+    text-align: left;
+}
+
+
+
+.Chocolate {
+    color: #66280a;
+}
+
+.Morango {
+    color: #FF0084;
+}
+
+.Branco {
+    color: azure;
+}
