@@ -48,13 +48,16 @@ margin-left: 60px
 
 #Chocolate {
     color: #66280a;
+    padding: 10px
 }
 
 #Morango {
     color: #FF0084;
+    padding: 10px;
 }
 
 #Branco {
     color: azure;
+    padding: 10px;
 }
 
