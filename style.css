@@ -6,6 +6,7 @@ body {
 .Título {
  text-align:center;
  color: #E2AA44;
+ font-size: 30px;
  
 }
 
@@ -21,8 +22,4 @@ p {
     width: 33%;
     text-align: center;
     margin-left: 30px;
-}
-
-#caneca {
-
 }
