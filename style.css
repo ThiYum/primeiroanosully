@@ -34,21 +34,24 @@ body {
 
 ul {
     background-color: #B7D5E5;
-    width: 80%;
-    margin-left: 60px
+    width: 50%;
+    margin-left: 100px
 }
 
 .Título2 {
-    color: #E2AA44;
+    color: #800080;
     font-size: 30px;
     text-align: left;
-    margin-left: 30px
+    margin-left: 30px;
+    background-color: #E6E1EF;
+    width: 410px;
+    padding: 10px
 }
 
 #p2{
     text-align: left;
-    color: #060604 ;
-    font-size: 20px;
+    color: peachpuff ;
+    font-size: 22px;
     margin-left: 10px;
 }
 
