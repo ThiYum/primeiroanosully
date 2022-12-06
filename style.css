@@ -32,6 +32,8 @@ ul {
 .Título2 {
     color: #E2AA44;
     font-size: 30px;
+    text-align: left;
+    margin-left: 30px
 }
 
 #parágrafo {
@@ -39,7 +41,8 @@ ul {
 }
 
 .lista {
-font-size: 30px;
+font-size: 25px;
+margin-left: 60px
 }
 
 #Chocolate {
