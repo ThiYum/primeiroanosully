@@ -30,7 +30,7 @@ p {
 
 ul {
     background-color: #B7D5E5;
-    width: 45%;
+    width: 50%;
     margin-left: 60px
 }
 
@@ -45,6 +45,7 @@ ul {
 font-size: 25px;
 margin-left: 60px; 
 font-style: italic;
+width: 50%;
 }
 
 #Chocolate {
