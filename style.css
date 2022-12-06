@@ -26,6 +26,7 @@ p {
 
 ul {
     background-color: #A9A9A9;
+    width: 50%;
 }
 
 .Título2 {
@@ -37,14 +38,19 @@ ul {
     text-align: left;
 }
 
-.Chocolate {
+.lista {
+font-size: 30px;
+}
+
+#Chocolate {
     color: #66280a;
 }
 
-.Morango {
+#Morango {
     color: #FF0084;
 }
 
-.Branco {
+#Branco {
     color: azure;
 }
+
