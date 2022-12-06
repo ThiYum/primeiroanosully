@@ -17,4 +17,6 @@ p {
 .cabeçário { 
     color: #66280a;
     background-color: #A9A9A9 ;   
+    width: 33%;
+    text-align: center;
 }
