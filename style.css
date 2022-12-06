@@ -2,6 +2,21 @@ body {
     background-color: #474A51;
 }
 
+#caneca {
+    background-color: #A9A9A9;
+}
+
+.cabeçário { 
+    color: #66280a;
+    background-color: #A9A9A9 ;   
+    width: 33%;
+    text-align: center;
+    display: inline-block;
+}
+
+.idk {
+    width: 100%;
+}
 
 .Título {
  text-align:center;
@@ -14,18 +29,6 @@ body {
     text-align: center;
     color: #F6F7F9 ;
     font-size: 20px;
-}
-
-#caneca {
-    background-color: #A9A9A9;
-}
-
-.cabeçário { 
-    color: #66280a;
-    background-color: #A9A9A9 ;   
-    width: 33%;
-    text-align: center;
-    display: inline-block;
 }
 
 .opções {
