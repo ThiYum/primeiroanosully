@@ -11,9 +11,13 @@ body {
 }
 
 #p1 {
-    text-align: left;
+    text-align: center;
     color: #F6F7F9 ;
     font-size: 20px;
+}
+
+#caneca {
+    background-color: #A9A9A9;
 }
 
 .cabeçário { 
@@ -21,7 +25,6 @@ body {
     background-color: #A9A9A9 ;   
     width: 33%;
     text-align: center;
-    margin-left: 30px;
     display: inline-block;
 }
 
@@ -31,7 +34,7 @@ body {
 
 ul {
     background-color: #B7D5E5;
-    width: 50%;
+    width: 80%;
     margin-left: 60px
 }
 
@@ -46,6 +49,7 @@ ul {
     text-align: left;
     color: #060604 ;
     font-size: 20px;
+    margin-left: 10px;
 }
 
 .lista {
@@ -57,7 +61,8 @@ width: 50%;
 
 #Chocolate {
     color: #66280a;
-    padding: 10px
+    padding: 10px;
+    width: 70%;
 }
 
 #Morango {
